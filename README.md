@@ -1,1 +1,1 @@
-Docker Kısmından KAynaklı Olduğunu Düşündüğüm Bir Hata ile Karşılaştım.
+Projede ki amacım.net core 6.0 kullanarak basit bir şekilde temel crude işlemini yapmak bunu yaparken CQRS MediatR Kullandım Aynı zamanda SQL üzerinde Store Procedure (Saklı Yordam) kullanıp bunu Dapper üzerinden projede kullanmaya çalıştım aynı zamanda docker ile projeyi ayağa kaldırmaya çalıştım şuan projede kod üzerinden bir hata göstermiyor ama bir bağlantı hatası alıyorum.
